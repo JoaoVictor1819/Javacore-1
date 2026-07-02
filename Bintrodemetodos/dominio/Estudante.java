@@ -6,6 +6,7 @@ public class Estudante {
     public char sexo;
     public int serie;
     public double[] notas;
+    
 
 
 
