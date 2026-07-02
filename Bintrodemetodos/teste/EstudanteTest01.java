@@ -14,15 +14,17 @@ public class EstudanteTest01 {
     estudante1.idade = 12;
     estudante1.sexo = 'M';
     estudante1.serie = 7;
+    estudante1.notas = new double[]{10, 8, 5, 4};
 
     estudante2.nome = "Beatriz";
     estudante2.idade = 19;
     estudante2.sexo ='F';
     estudante2.serie = 11;
+    estudante2.notas = new double[]{10, 9, 8, 7};
 
     impressora.imprimir(estudante1);
     impressora.imprimir(estudante2);
     }
-   
+    
     
 }
