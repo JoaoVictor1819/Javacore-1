@@ -5,6 +5,7 @@ public class ImprimirEstudante {
         System.out.println(estudante.nome);
         System.out.println(estudante.idade);
         System.out.println(estudante.sexo);
+        System.out.println(estudante.serie);
     }
     
 }
